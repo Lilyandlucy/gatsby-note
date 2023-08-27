@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: "Lilyanlucy's blog",
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://www.ministack.work`,
   },
   plugins: [
     "gatsby-plugin-image",
